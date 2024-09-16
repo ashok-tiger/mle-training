@@ -16,3 +16,16 @@ The following techniques have been used:
 
 ## To excute the script
 python < scriptname.py >
+
+
+- Command to create the environment:
+
+conda env create -f env.yml
+
+- Command to activate the environment:
+
+conda activate mle-dev
+
+- Command to run the Python script:
+
+python nonstandardcode.py
